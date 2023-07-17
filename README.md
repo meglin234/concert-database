@@ -1,7 +1,5 @@
 # concert-database
 
-Database in works 
+ Data Model
 
-Data Model
-
-Image 
+![Image](https://github.com/meglin234/concert-database/blob/main/data_model.png)
