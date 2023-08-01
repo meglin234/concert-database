@@ -1,0 +1,53 @@
+concert_id,concert_name,date,artist_name,role_name,genre_name,venue_name
+8,place holder,2018-07-18,Panic! at the Disco,Headliner,Alt/Indie,PPG Paints Arena
+10,place holder,2019-04-27,Future Feats,Opener,Alt/Indie,Rock N Roll Hotel
+11,place holder,2019-05-16,LANY,Headliner,Alt/Indie,9:30 Club
+13,place holder,2021-11-28,The Driver Era ,Headliner,Alt/Indie,The NorVa
+13,place holder,2021-11-28,The Wrecks,Opener,Alt/Indie,The NorVa
+13,place holder,2021-11-28,Moon Tower,Opener,Alt/Indie,The NorVa
+15,place holder,2022-07-05,Pale Waves,Opener,Alt/Indie,The Anthem
+17,place holder,2022-09-27,Coin,Headliner,Alt/Indie,The NorVa
+18,place holder,2022-10-01,Lorde,Headliner,Alt/Indie,Merriweather Post Pavilion
+18,place holder,2022-10-01,Hippo Campus,Opener,Alt/Indie,Merriweather Post Pavilion
+18,place holder,2022-10-01,Mitski,Opener,Alt/Indie,Merriweather Post Pavilion
+19,place holder,2022-10-25,Bad Suns,Headliner,Alt/Indie,The National
+19,place holder,2022-10-25,Last Dinosaurs ,Opener,Alt/Indie,The National
+19,place holder,2022-10-25,Quarters of Change,Opener,Alt/Indie,The National
+20,place holder,2022-10-30,The Wrecks,Headliner,Alt/Indie,Elevation 27
+20,place holder,2022-10-30,Arlie,Opener,Alt/Indie,Elevation 27
+6,place holder,2018-06-24,Kasey Musgraves,Opener,Country,Capital One Arena
+9,place holder,2018-08-31,Maren Morris,Opener,Country,Jiffy Lube Live
+12,place holder,2019-06-15,Thomas Rhett,Headliner,Country,Jiffy Lube Live
+12,place holder,2019-06-15,Dustin Lynch,Opener,Country,Jiffy Lube Live
+12,place holder,2019-06-15,Russell Dickerson,Opener,Country,Jiffy Lube Live
+8,place holder,2018-07-18,ARIZONA,Opener,Dance,PPG Paints Arena
+1,place holder,2015-06-27,Wiz Khalifa,First Headliner,Hip-Hop/Rap,Merriweather Post Pavilion
+17,place holder,2022-09-27,Miloe ,Opener,Hip-Hop/Rap,The NorVa
+21,place holder,2023-05-16,Tomorrow X Together ,Headliner,Kpop,Capital One Arena
+2,place holder,2016-11-17,Dua Lipa,Opener,Pop,Eagle Bank Arena
+2,place holder,2016-11-17,Troye Sivan,Headliner,Pop,Eagle Bank Arena
+3,place holder,2017-10-09,Halsey,Headliner,Pop,Capital One Arena
+3,place holder,2017-10-09,Charli XCX,Opener,Pop,Capital One Arena
+4,place holder,2017-11-28,Dua Lipa,Headliner,Pop,The Fillmore Silver Spring
+4,place holder,2017-11-28,Marteen,Opener,Pop,The Fillmore Silver Spring
+5,place holder,2018-06-04,Prettymuch,Opener,Pop,Pier Six Pavilion
+6,place holder,2018-06-24,Harry Styles,Headliner,Pop,Capital One Arena
+7,place holder,2018-07-15,Halsey,Headliner,Pop,Wolf Trap
+8,place holder,2018-07-18,Hayley Kiyoko,Opener,Pop,PPG Paints Arena
+9,place holder,2018-08-31,Niall Horan,Headliner,Pop,Jiffy Lube Live
+11,place holder,2019-05-16,Fletcher,Opener,Pop,9:30 Club
+14,place holder,2022-06-28,Dua Lipa,Headliner,Pop,Gröna Lund
+16,place holder,2022-08-25,Lauv,Headliner,Pop,The Anthem
+16,place holder,2022-08-25,Hayley Kiyoko,Opener,Pop,The Anthem
+18,place holder,2022-10-01,King Princess,Opener,Pop,Merriweather Post Pavilion
+18,place holder,2022-10-01,Maude Latour,Opener,Pop,Merriweather Post Pavilion
+22,place holder,2023-06-16,Taylor Swift,Headliner,Pop,Acrisure Stadium
+22,place holder,2023-06-16,Gracie Abrams,Opener,Pop,Acrisure Stadium
+22,place holder,2023-06-16,Girl in Red,Opener,Pop,Acrisure Stadium
+1,place holder,2015-06-27,Fall Out Boy,Second Headliner,Pop/Rock,Merriweather Post Pavilion
+10,place holder,2019-04-27,Picture This,Headliner,Pop/Rock,Rock N Roll Hotel
+15,place holder,2022-07-05,5SOS,Headliner,Pop/Rock,The Anthem
+18,place holder,2022-10-01,Bleachers,Opener,Pop/Rock,Merriweather Post Pavilion
+3,place holder,2017-10-09,PartyNextDoor,Opener,R&B/Soul,Capital One Arena
+5,place holder,2018-06-04,Khalid,Headliner,R&B/Soul,Pier Six Pavilion
+7,place holder,2018-07-15,Jessie Reyez,Opener,R&B/Soul,Wolf Trap
